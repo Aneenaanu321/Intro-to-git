@@ -1,4 +1,4 @@
-#**Basic-Tech-Stack-for-DEV.
+# **Basic-Tech-Stack-for-DEV.
 
 # **Introduction to Git and GitHub**
 
