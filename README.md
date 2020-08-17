@@ -1,6 +1,7 @@
+#Basic-Tech-Stack-for-DEV.
+
 # **Introduction to Git and GitHub**
-#### This content is developed for **SkillUPxJEC** - Skill bootcamp conducted by Innovation & Entrepreneurship Development Cell of Jyothi Engineering College, Cheruthuruthy, Thrissur
-## 
+
 - **What is Git ?**
 > Git is a distributed version-control system for tracking changes in source code during software development .It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed,data integrity,and support for distributed, non-linear workflows.
 
@@ -17,14 +18,6 @@
 
 > - [GitHub](http://github.com)
 
-- **For Git & GitHub is used in SkillUPxJEC ?**
-
-> In our tutorials git is used to create your
-> - Own Repository
-> - Making portfolio using GitHub pages
-> - Introducing GitHub Student Developer Pack
-> - Making workflow with your colleague coders
-> - Assesments
 
 - **How to start with git ?** 
 
